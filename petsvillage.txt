@@ -1,0 +1,42 @@
+1.	Centro Estético Pet: Banho & Tosa
+1.1.	Banho
+1.1.1.	Banho de Raças Pequenas
+1.1.1.1.	Valor: 45,00
+1.1.1.2.	Tempo: 60 minutos
+1.1.1.3.	Raças: [Shih-tzu, Spitz, maltês, Pinscher]
+1.1.2.	Banho de Raças Médias
+1.1.2.1.	Valor: 60,00
+1.1.2.2.	Tempo: 90 minutos
+1.1.2.3.	Raças: [Border Collie, Beagles, Duschound, Vira-Lata]
+1.1.3.	Banho de Raças Grandes
+1.1.3.1.	Valor: 100,00
+1.1.3.2.	Tempo: 150 minutos
+1.1.3.3.	Raças: [Pastor Alemão, Boxer, Golden, Labrador]
+1.2.	Tosa
+1.2.1.	Tosa Geral
+1.2.1.1.	Valor: 60,00
+1.2.1.2.	Tempo: 90 minutos
+1.2.1.3.	Raças: [Border Collie, Beagles, Duschound, Vira-Lata]
+1.2.2.	Tosa Carinha Fofa
+1.2.2.1.	Valor: 60,00
+1.2.2.2.	Tempo: 90 minutos
+1.2.2.3.	Raças: [Border Collie, Beagles, Duschound, Vira-Lata]
+
+2.	Consultório Veterinário
+2.1.	Vacinas
+2.1.1.	Vacina 1
+2.1.1.1.	Valor: 70
+2.1.2.	Vacina 2
+2.1.2.1.	Valor: 75
+2.1.3.	Vacina 3
+2.1.3.1.	Valor: 80
+2.2.	Consulta
+2.2.1.	Agendada
+2.2.1.1.	Valor: 125
+2.2.2.	Emergencia
+2.2.2.1.	Valor: 155
+
+3.	Funcionamento
+3.1.	Abertura: 08:45
+3.2.	Fechamento: 20:45
+3.3.	De Segunda a Sexta
